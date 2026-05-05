@@ -1,0 +1,57 @@
+{
+  "subject": "Φυσική Προσανατολισμού",
+  "grade": "Γ' Λυκείου",
+  "exam": "Πανελλαδικές Εξετάσεις",
+  "version": "1.0",
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Ταλαντώσεις",
+      "file": "ch1_talantoseis.json",
+      "question_count": 22,
+      "status": "active"
+    },
+    {
+      "id": "ch2",
+      "title": "Κύματα",
+      "file": "ch2_kymata.json",
+      "question_count": 0,
+      "status": "coming_soon"
+    },
+    {
+      "id": "ch3",
+      "title": "Στερεό Σώμα",
+      "file": "ch3_stereo.json",
+      "question_count": 0,
+      "status": "coming_soon"
+    },
+    {
+      "id": "ch4",
+      "title": "Κρούσεις",
+      "file": "ch4_krouseis.json",
+      "question_count": 0,
+      "status": "coming_soon"
+    },
+    {
+      "id": "ch5",
+      "title": "Κβαντική Φυσική",
+      "file": "ch5_kvanto.json",
+      "question_count": 0,
+      "status": "coming_soon"
+    },
+    {
+      "id": "ch6",
+      "title": "Μαγνητικό Πεδίο",
+      "file": "ch6_magnitiko.json",
+      "question_count": 0,
+      "status": "coming_soon"
+    },
+    {
+      "id": "ch7",
+      "title": "Ηλεκτρομαγνητική Επαγωγή",
+      "file": "ch7_em_epagogi.json",
+      "question_count": 0,
+      "status": "coming_soon"
+    }
+  ]
+}
